@@ -3,5 +3,7 @@ wikipedia
 langchain-community
 langchain-openai
 langchain-anthropic
+langchain_core
 python-dotenv
 pydantic
+flask
