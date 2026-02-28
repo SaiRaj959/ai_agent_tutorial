@@ -7,3 +7,4 @@ langchain_core
 python-dotenv
 pydantic
 flask
+flask-cors
